@@ -1,0 +1,17 @@
+body{
+    background:url("https://dumielauxepices.net/sites/default/files/camping-clipart-school-camp-878652-6571237.jpg");
+    background-repeat: no-repeat;
+    
+}
+.thumbnail img{
+    width:100%;
+}
+.thumbnail{
+    padding:0;
+}
+.caption-full{
+    padding:9px;
+}
+#delete-form{
+    display:inline;
+}

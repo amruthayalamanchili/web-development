@@ -1,0 +1,6 @@
+<%include partials/header %>
+<h1>Recent posts</h1>
+<% posts.forEach(function(post){ %>
+<li><%= post.name %>-<strong><i><%= post.character %></i></strong></li>
+<% }) %>
+<%include partials/footer %>

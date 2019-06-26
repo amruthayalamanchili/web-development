@@ -1,0 +1,16 @@
+{
+  "name": "yelpcamp-v1",
+  "version": "1.0.0",
+  "description": "version-1.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amruth",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "mongo": "^0.1.0",
+    "mongoose": "^5.5.10"
+  }
+}
